@@ -1,0 +1,142 @@
+#: locale=en-US
+
+## Tour
+
+### Description
+tour.description = Unique Floating hotel in Brazil
+
+### Title
+tour.name = Uiara Amazon Resort
+
+## Skin
+
+### Button
+Button_01E43D2A_1440_3C2F_41A3_3A99384B7710.label = PT
+Button_01E9A611_14C0_2FFD_41A4_4398A5742DD5.label = | EN
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = BOOK A RESERVATION 
+Button_062AF830_1140_E215_418D_D2FC11B12C47.pressedLabel = BOOK A RESERVATION 
+Button_062AF830_1140_E215_418D_D2FC11B12C47_mobile.label = BOOK A RESERVATION 
+
+### Dropdown
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B.label = EXTERNAL
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B_mobile.label = EXTERNAL
+DropDown_05789A1B_3AA3_A1D2_41CC_002739F0C312.label = ROOMS
+DropDown_05789A1B_3AA3_A1D2_41CC_002739F0C312_mobile.label = ROOMS
+DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09.label = RESTAURANTS
+DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09_mobile.label = RESTAURANTS
+DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7.label = AUDITORIUM
+DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7_mobile.label = AUDITORIUM
+
+### Multiline Text
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.6099999999999985vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7000000000000046vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>Uiara Amazon Resort</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999984vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#725b4e;font-size:1.96vh;font-family:'Montserrat';"><B>YOUR PASSION FOR THE AMAZON STARTS HERE</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.8612521150592218vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;font-family:'Montserrat';"><B><U>Is a floating hotel</U></B></SPAN><SPAN STYLE="font-size:1.86vh;font-family:'Montserrat';"><B> installed on a precious stone, sculpted by man, in total synergy with the environment. The resort offers its guests experiences of wild nature combined with exceptional comfort, impeccable regional cuisine, and high-quality leisure and service. At Uiara, you find the glamor of a jungle resort that works to ensure unique days in the largest Tropical Forest on the Planet, the lung of the Earth!</B></SPAN><SPAN STYLE="font-size:1.86vh;font-family:'Montserrat';"> </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.8612521150592218vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;font-family:'Montserrat';"><B><U>The origin of the name Uiara: </U></B></SPAN><SPAN STYLE="font-size:1.86vh;font-family:'Montserrat';">the legend of Iara or Yara, from the indigenous Iuara, means "she who lives in the waters '; she is a mermaid (half-woman, half-fish) who lives in the Amazonian waters. Its representation brings the hotel a true sense of protection with the rivers, that is, just as Iara protects the Amazonian waters, we also do it, always raising awareness among our guests for the preservation of the environment, rivers, and wonders found in Amazonian soil and waters.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.83vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#725b4e;font-size:2.83vh;font-family:'Oswald';"><B>We guarantee the best price and offer financing optings to 3x</B></SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.6099999999999985vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:3.0788177339901477vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.08vh;font-family:'Montserrat';"><B>Uiara Amazon Resort</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.08vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.2315270935960585vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.23vh;font-family:'Montserrat';"><B>SUA PAIXÃO PELA AMAZÕNIA COMEÇA AQUI</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.4778325123152711vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.48vh;font-family:'Montserrat';"><B><U>É um hotel flutuante</U></B></SPAN><SPAN STYLE="font-size:1.48vh;font-family:'Montserrat';"> instalado em uma pedra preciosa, esculpida pelo homem, em total sinergia com o meio ambiente. O Resort oferece aos seus hóspedes as experiências da natureza selvagem unidas a um conforto excepcional, a uma gastronomia regional impecável e ao lazer e atendimento de alta qualidade. No Uiara você encontra o glamour de um Resort de Selva que trabalha para garantir dias únicos na maior Floresta Tropical do Planeta, o pulmão da Terra!</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.4778325123152711vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.48vh;font-family:'Montserrat';"><B><U>A origem do nome Uiara:</U></B></SPAN><SPAN STYLE="font-size:1.48vh;font-family:'Montserrat';"> a lenda de Iara ou Yara, do indígena Iuara, significa “aquela que mora nas águas”; é uma sereia (metade mulher, metade peixe) que vive nas águas amazônicas. Sua representação traz para o hotel o verdadeiro sentido de proteção com os rios, ou seja, do mesmo modo que Iara protege as águas amazônicas, nós também o fazemos, sempre conscientizando nossos hóspedes para a preservação do meio ambiente, dos rios e das maravilhas que se encontram em solo e águas amazônicas.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.4778325123152711vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.48vh;"><B>.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0597660098522175vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#725b4e;font-size:2.06vh;font-family:'Oswald';"><B>O melhor preço garantido parcelamos em até 3x</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_1C3FB4CA_0637_4A08_4196_C0E14C8A1E2A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#73594f;font-size:16px;font-family:'Montserrat';"><B>{{TITLE}}</B></SPAN></SPAN></DIV></div>
+
+### Label
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1.text = FLOATING HOTEL IN AMAZON
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1_mobile.text = FLOATING HOTEL IN AMAZON
+Label_115C08C5_06F5_5A7B_4180_87EDF0FBB8C4.text = CLICK ON THE ANIMATED LINKS TO INTERACT BETWEEN SECTORS
+
+## Media
+
+### Subtitle
+panorama_F1458EC3_FBF3_072A_41ED_85C9AF912822.subtitle = A Singularidade da culinária Amazõnica se destaca pela sua composição de ingredientes exclusivos da sua região.
+panorama_F14A39B3_FBFD_0D6A_41E5_CC934ADED8E4.subtitle = A Singularidade da culinária Amazõnica se destaca pela sua composição de ingredientes exclusivos da sua região.
+panorama_F14A705E_FBFD_1BDA_41E8_A8AEBFFCA07E.subtitle = A Singularidade da culinária Amazõnica se destaca pela sua composição de ingredientes exclusivos da sua região.
+panorama_F14A8F1E_FBFD_055A_41DC_2E3C8B08629D.subtitle = A Singularidade da culinária Amazõnica se destaca pela sua composição de ingredientes exclusivos da sua região.
+panorama_F14ACC67_FBFD_0BEA_41DB_C64B38CAA8A3.subtitle = A Singularidade da culinária Amazõnica se destaca pela sua composição de ingredientes exclusivos da sua região.
+panorama_F14AFDDE_FBFD_04DA_41DC_11EE978CEC4F.subtitle = A Singularidade da culinária Amazõnica se destaca pela sua composição de ingredientes exclusivos da sua região.
+
+### Title
+panorama_00512112_0F0C_5EB7_4194_C7B5DB4648E1.label = BESIDE
+panorama_1059BBA1_0466_98FB_415C_6AA586A66EC4.label = JUNIOR SUITE
+panorama_1084EFC3_0462_98B8_4182_BC96BC9AFFFB.label = IMPERIAL SUITE
+panorama_108CE0C7_0462_A847_418D_8CA851B1611D.label = MASTER SUIITE
+panorama_10A2EB9C_047E_98C9_418B_9AB954531B86.label = NOBLE SUITE
+panorama_10C16A70_045D_9858_4155_4D1ACB0FCD30.label = SUPERIOR SUITE
+panorama_10D25233_0463_ABDF_4172_08D77B4741C0.label = LUX SUITE
+panorama_111B9BDB_0462_984F_4185_F039CE7BD404.label = NOBLE SUITE
+panorama_117ABB1D_047D_F9C8_4190_61B81C5DFF3A.label = NOBLE SUITE
+panorama_12FC59CD_0422_984B_4177_EDD8EFB245BA.label = SUPERIOR SUITE
+panorama_17119D55_0467_785B_417C_8B4F2CA4AC68.label = IMPERIAL SUITE
+panorama_1938217F_0F1C_C16D_41A0_3764B8079076.label = AERIAL PHOTOGRAPH
+panorama_1D7435EC_0462_A848_4190_AE74775FD798.label = IMPERIAL SUITE
+panorama_209893E3_04E3_E878_4152_6298D26345C3.label = CUPUAÇU ROOM
+panorama_21496C23_04E6_FFFF_4172_164227B715CE.label = GUARANA AUDIT.
+panorama_F1438E60_FBF5_07E6_41EE_610A30A5F6D7.label = FERRY
+panorama_F1458EC3_FBF3_072A_41ED_85C9AF912822.label = ARATICUM RESTAURANT
+panorama_F145B4CB_FBF7_1B3A_41E2_6AA420979B65.label = MASTER SUITE
+panorama_F145D351_FBF3_FD26_41BA_B1E83D801BC0.label = RECEPTION
+panorama_F145FF45_FBF3_052E_41ED_DA30F8513E25.label = RECEPTION
+panorama_F1466A94_FBF5_0F2E_418E_EDE6B9B84B08.label = NOBLE SUITE
+panorama_F146D89B_FBF3_0B5A_41EB_7ED847D02C61.label = ENTRADA
+panorama_F146E81E_FBF3_0B5A_41B6_CCC9FA535B6F.label = RECEPTION
+panorama_F146FBA5_FBF5_0D6E_41AA_DCF83A1A6CC7.label = NOBLE SUITE
+panorama_F1470C1E_FBF5_0B5A_41ED_BC1BC2D404F4.label = WAY
+panorama_F1476A97_FBF5_0F2A_41E4_5FD3AED4E384.label = WAY
+panorama_F1479288_FBF3_7F26_41EB_512FA635BB67.label = IMG_20230803_144212_00_merged
+panorama_F14A39B3_FBFD_0D6A_41E5_CC934ADED8E4.label = ARATICUM RESTAURANT
+panorama_F14A410D_FBFD_1D3E_41E7_0C8F97FB8D4D.label = PIQUIÁ AUDIT.
+panorama_F14A4697_FBF7_072A_41EA_7E0FA49144F9.label = MASTER MASTER
+panorama_F14A6BFD_FBF7_0CDE_41C3_3C665D896EF6.label = LUX SUITE
+panorama_F14A705E_FBFD_1BDA_41E8_A8AEBFFCA07E.label = ARATICUM RESTAURANT
+panorama_F14A8A98_FBF7_0F26_41E0_820BE7BC52EA.label = LUX SUITE
+panorama_F14A8F1E_FBFD_055A_41DC_2E3C8B08629D.label = ARATICUM RESTAURANT
+panorama_F14AA12F_FBFD_1D7A_41D7_83D142E0FA18.label = PIQUIÁ AUDIT.
+panorama_F14ACC67_FBFD_0BEA_41DB_C64B38CAA8A3.label = ARATICUM RESTAURANTE
+panorama_F14AF556_FBF5_052A_41D4_39C161BB9BF8.label = IMPERIAL SUITE
+panorama_F14AFDDE_FBFD_04DA_41DC_11EE978CEC4F.label = ARATICUM RESTAURANTE
+panorama_F14BAF22_FBFF_056A_41B7_149D40B592AB.label = PIQUIÁ AUDIT.
+panorama_F14BCEB1_FBF5_0767_41C7_9C090DAA06F2.label = IMPERIAL SUITE
+panorama_F14BCF33_FBFF_056A_41DB_1EA739247D6F.label = CASTANHA RESTAURANT
+panorama_F14BDF70_FBF5_05E6_41EC_22105DC7FB1F.label = IMPERIAL SUITE
+panorama_F14C7498_FBFD_1B26_41E6_6288EA8521DB.label = ADULT POOL
+panorama_F14C82B1_FBFD_1F66_41EE_7DAE145F7E93.label = CHILDREN'S POOL
+panorama_F14C93E8_FBFD_1CE7_41DA_6F3E8C69BD43.label = PLAY AREA
+panorama_F14CD4C7_FBFD_1B2A_41B6_907FC79E9884.label = POOL_PIER
+panorama_F14D179E_FBF3_055A_41CE_7450DC180B5A.label = IMPERIAL SUITE
+panorama_F14D3DCC_FBF3_053E_41E2_60B9B866B36E.label = ACCESS 2
+panorama_F14D6635_FBF3_076E_41D4_FD933C626021.label = IMPERIAL SUITE
+panorama_F14D6FFA_FBF3_04DA_41E4_0311B7DDEC68.label = ACCESS 2
+panorama_F14F236E_FBFD_1DFA_41E2_DF2F1B4EAB05.label = BAR
+panorama_F14F2E12_FBFD_072A_41C3_61458CE9EA78.label = BAR
+panorama_F14F93F7_FBFD_1CEA_41AF_213F0FF4B90E.label = ADULT POOL
+video_0028E506_13C0_2DE7_4197_5CA3835E6F9A.label = Arco e Flecha
+video_D9B0CBCA_FCB4_A3CD_41C4_AA203021B7FD.label = Vídeo 01
+video_ED61F472_FC95_A4DD_41E4_55B3DEEC1F45.label = Vídeo 02
+video_EFBC1D0F_FCB7_E443_41D4_DAE4DC431C53.label = Vídeo 03
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_2108D036_07F4_CF8A_4178_D4F75CB16A4B.toolTip = SAÍDA
+HotspotPanoramaOverlayArea_2129CBB8_07D5_3086_4150_2F0B32D54304.toolTip = VOLTAR RECEPÇÃO
+HotspotPanoramaOverlayArea_3C886DCE_0427_9849_416F_04E92FD35A3E.toolTip = SAÍDA
+HotspotPanoramaOverlayArea_DCB63AD0_FC94_ADDD_41E3_8384E77B3D0C.toolTip = VISITAR SUÍTES
+HotspotPanoramaOverlayArea_ED6DB2E6_FCAC_5DC5_41D4_0A53347CE056.toolTip = BAR
+HotspotPanoramaOverlayArea_ED70C5EC_FC95_E7C5_41DF_AAAD0EC029F9.toolTip = RESTAURANTE
+HotspotPanoramaOverlayArea_EE9C0F87_FCB4_A444_41A6_0E457A007626.toolTip = PISCINA
+HotspotPanoramaOverlayArea_EEB64A79_FC9D_ECCC_41C5_8B6D8F88F6BD.toolTip = RECEPÇÃO
+
+## Action
+
+### URL
+LinkBehaviour_05EA6CFB_10D8_2B89_4191_007809834679.source = https://book.omnibees.com/hotelresults?q=15389&_gl=1*qvejxk*_ga*NjQyNDUzMDg3LjE2OTIyMDQ4ODU.*_ga_HYDZPCZ4VX*MTY5MjQ5OTgyOC4xMC4xLjE2OTI1MDAzOTkuNjAuMC4w#_ga=2.77902036.1196166709.1692499828-642453087.1692204885
+LinkBehaviour_06FBE529_1169_FAB6_419F_8BC8A096E437.source = https://wa.link/t965yk
+LinkBehaviour_0A82E6AD_1158_278E_4184_292A15CD4D06.source = https://uiaraamazonresort.com.br/en/resort/
+LinkBehaviour_0AA12966_1158_2ABA_4197_23643F9E103A.source = https://uiaraamazonresort.com.br/en/resort/
+LinkBehaviour_0D270D8A_1158_658A_417E_2552DD767447.source = https://uiaraamazonresort.com.br/en/resort/
+LinkBehaviour_13892AB1_0A8D_5EB3_419A_DA887D55BE5E.source = https://uiaraamazonresort.com.br/en/resort/
+LinkBehaviour_20BB0B5F_07FD_D1BA_4195_8BBE41C71144.source = https://wa.link/bprb3v
+LinkBehaviour_218D2405_07D7_7789_4195_5B11AD30FBA9.source = https://wa.link/bprb3v
+LinkBehaviour_21D480F6_063D_308B_4192_138AC6E40426.source = https://wa.link/bprb3v
+LinkBehaviour_243CF1AF_0133_38A3_4141_3F0AC541F59C.source = https://www.youtube.com/@uiaraamazonresort1899
+LinkBehaviour_24A00E3E_062C_D3FB_4161_D2BDD4C81675.source = https://wa.link/5w1c68
+LinkBehaviour_24E13B06_013F_4965_4166_567D973E89EC.source = https://goo.gl/maps/AfawGChfr2sTNoMn9
+LinkBehaviour_24F6BB5A_062D_D1BA_4190_6520C2C44F13.source = https://wa.link/5w1c68
+LinkBehaviour_25A9745A_0131_5FEC_4172_18E78D317E5C.source = https://uiaraamazonresort.com.br/pt-br/
+LinkBehaviour_279CC1CF_013F_38E4_4118_3DB0F2B989D8.source = https://www.instagram.com/uiaraamazon/
+LinkBehaviour_281C27CA_0177_58ED_4141_FCBB149CFCE2.source = https://www.youtube.com/@uiaraamazonresort1899
+LinkBehaviour_281D07C1_0177_58DF_4130_0F6059EEEC74.source = https://www.instagram.com/uiaraamazon/
+LinkBehaviour_281D47C2_0177_58DD_4176_BD856FE27D80.source = https://goo.gl/maps/AfawGChfr2sTNoMn9
+LinkBehaviour_281DF7C8_0177_58ED_415E_71A514CF0968.source = https://uiaraamazonresort.com.br/pt-br/
