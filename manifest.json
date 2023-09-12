@@ -1,7 +1,7 @@
 {
  "name": "Uiara Amazon Resort",
  "description": "Único Hotel Flutuante do Brasil",
- "theme_color": "#CCCCCC",
+ "background_color": "#CCCCCC",
  "icons": [
   {
    "type": "image/png",
@@ -39,7 +39,7 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#CCCCCC",
- "display": "fullscreen",
- "start_url": "index.htm"
+ "start_url": "index.htm",
+ "theme_color": "#CCCCCC",
+ "display": "fullscreen"
 }
